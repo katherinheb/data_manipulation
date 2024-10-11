@@ -51,6 +51,8 @@ const speed_2 = 60; // 60 mph
 const speed_3 = 75; // 75 mph
 
 const fuel_efficieny_55 = 30; // fuel effecieny of 30 miles/gallon at 55mph
+const fuel_efficieny_60 = 40; // fuel effecieny of 40 miles/gallon at 60mph
+const fuel_efficieny_75 = 55; // fuel effecieny of 55 miles/gallon at 75mph
 
 const budget = 175; // 175 dollars
 const avg_fuel_cost = 3; // 3 dollars/gallon
