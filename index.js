@@ -85,7 +85,7 @@ console.log(results_75);
 let yourMoney = 50
 let catPrice = 100
 
-let (yourMoney == catPrice) 
+let price = (yourMoney == catPrice) 
 {
 console.log ('You have just enough to buy a cat'); } 
  if (yourMoney > catPrice) {
